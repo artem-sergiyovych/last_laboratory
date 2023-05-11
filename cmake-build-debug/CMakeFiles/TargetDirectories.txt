@@ -1,0 +1,3 @@
+/Users/artemtymoshchuk/Documents/Study PUT/4 semester/Information engineering/last/cmake-build-debug/CMakeFiles/HelloSFML.dir
+/Users/artemtymoshchuk/Documents/Study PUT/4 semester/Information engineering/last/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/artemtymoshchuk/Documents/Study PUT/4 semester/Information engineering/last/cmake-build-debug/CMakeFiles/rebuild_cache.dir
